@@ -1,0 +1,225 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&family=Nunito+Sans:wght@200&display=swap');
+
+  .nav-ul li{
+    display: inline-block;
+    padding: 10px;
+  }
+  
+  .nav-ul li a{
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .nav-ul{
+    padding: 5px;
+    margin: 0;
+    background-color: skyblue;
+  }
+  .inputBox{
+    display: block;
+    margin: 25px;
+    padding: 7px;
+    width: 300px;
+    margin-left: 22%;
+    border: 1px solid rgb(156, 119, 48);
+  }
+  .inputBox1{
+    background-color:rgb(43, 43, 219);
+    color: white;
+    margin-left: 22%;
+    width: 315px;
+    height: 35px;
+  }
+  .reg{
+    margin-left: 38%;
+  }
+  .prag{
+    margin-left:20%;
+  }
+  
+  .rpage{
+    height: 400px;
+    width: 500px;
+    margin-top:0%;
+    margin-left: 500px;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid blue;
+  }
+  
+  .register{
+    height: 100vh;
+    width: 100vw;
+    
+    background-color: rgb(175, 236, 236);
+  }
+  .nav-right{
+    text-align: right;
+  }
+  
+  .asidebar{
+    height: 180vh;
+    width: 24%;
+    background-color: rgb(175, 236, 236);
+  }
+  
+  .basicinfo{
+  
+    height: 60vh;
+    width: 70vw;
+    display: flex;
+    flex-direction: row;
+  }
+  .input{
+    height: 30px;
+    width: 300px;
+    margin-top: 0%;
+    border-radius: 5px;
+  }
+  .button{
+    margin-left: 500px;
+    display: flex;
+  }
+  
+  .btnn1{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(69, 116, 134);
+    color: white;
+    margin: 20px;
+    border-radius: 100px;
+  }
+  .btnn2{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(43, 43, 161);
+    color: white;
+    margin: 20px;
+    border-radius: 100px;
+  }
+  
+  .rightsidebox{
+    margin-left: 25px;
+  }
+  .leftsidebox{
+    margin-left: 200px;
+  }
+  .asidelist{
+    margin: 5px;
+  }
+  
+  ul li{
+    text-decoration: none;
+    
+  }
+  .property-list{
+    text-align: left;
+    margin: 10px;
+  
+  }
+  .property-list ul li{
+    display: inline-block;
+    padding: 20px;
+    color: black;
+   
+  
+  }
+  .property-list ul{
+    margin: 0;
+    border-radius: 50px;
+    margin-top: 2px;
+    background-color: rgb(212, 222, 222);
+  }
+  .list2{
+    width: 80px;
+    
+  }
+  .input1{
+    height: 36px;
+    width: 300px;
+    border-radius: 5px;
+    border: 2px solid black;
+  }
+  .pro{
+    display: flex;
+    flex-direction: row;
+  }
+  .asidebar1{
+    width: 15%;
+    height: 100vh;
+    background-color:rgb(175, 236, 236);
+  }
+  .heading{
+    margin-left: 700px;
+  }
+  .button2{
+    margin-top: 20%;
+    margin-left: 500px;
+  }
+  .bbtn{
+    height: 40px;
+    width: 130px;
+    margin-left: 40%;
+    border-radius: 50px;
+    background-color: rgba(0, 0, 0, 0.199);
+  
+  }
+  
+  .bbtn1{
+    height: 40px;
+    width: 130px;
+    border-radius: 50px;
+    background-color: rgba(0, 0, 0, 0.199);
+  }
+  .bbtn:hover{
+    background-color: blue;
+  }
+  .bbtn:hover{
+    background-color: blue;
+  }
+  
+  .searchdiv{
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+  }
+  .addproperty{
+    height: 40px;
+    width: 150px;
+    margin-left: 860px;
+    border-radius: 50px;
+    cursor: pointer;
+    background-color:rgb(175, 236, 236);
+  }
+  .searchInput{
+    height: 30px;
+    width: 150px;
+  }
+  
+  .bttt{
+    border-radius: 50px;
+  }
+  .unorderlist{
+    background-color: aqua;
+  }
+  .line{
+  
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display:flex;
+    flex-direction: row;
+  }
+  
+  .above{
+    margin-left: 900px;
+  }
+  .header{
+    height: 20px;
+    width: 70vw;
+    margin-left: 100px;
+   
+    background-color: antiquewhite;
+  }
